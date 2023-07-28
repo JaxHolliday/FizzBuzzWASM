@@ -1,0 +1,11 @@
+﻿.text-fizz {
+    color: darkorange;
+}
+
+.text-buzz {
+    color:lightgrey;
+}
+
+.col > div {
+    border-radius: 5px;
+}
